@@ -1,0 +1,21 @@
+# Core data processing
+numpy
+pandas
+
+# Deep learning
+tensorflow
+torch
+
+# NLP and pretrained embeddings
+datasets
+gensim
+transformers
+accelerate
+
+# Evaluation and visualization
+scikit-learn
+matplotlib
+seaborn
+
+# Demo interface
+gradio
